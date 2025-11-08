@@ -1,0 +1,12 @@
+
+## ⚙️ **requirements.txt**
+
+You can create a file named `requirements.txt` in your root folder with this content 👇  
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
